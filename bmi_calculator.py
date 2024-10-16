@@ -5,4 +5,4 @@ weight = int(input("Enter your weight in kgs: \n"))
 
 bmi = round(weight / (height) ** 2, 2)
 
-print(f"Your bmi is {bmi}")
+print(f"Your bmi is {bmi}") 
